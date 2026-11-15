@@ -1,5 +1,5 @@
 ## Overview
-This repository contains the code for the **Sales Prediction using Python** project completed as part of the CodeAlpha Data Science Internship. The objective is to forecast future sales outcomes based on promotional and advertising expenditures using regression machine learning model.
+This repository contains the code for the **Sales Prediction using Python** project . The objective is to forecast future sales outcomes based on promotional and advertising expenditures using regression machine learning model.
 
 ## Project Workflow
 1. **Dataset Loading:** Automatically fetched the sales transaction dataset using `kagglehub`.
@@ -14,4 +14,4 @@ This repository contains the code for the **Sales Prediction using Python** proj
 - Scikit-learn
 - Matplotlib & Seaborn
 - Kagglehub
--# CodeAlpha_SalesPrediction
+  
